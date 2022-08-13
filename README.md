@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self taught student.
+I am a self taught student. :man_student:
 <br/>
 <br/>
 
