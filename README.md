@@ -16,5 +16,7 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 - 📫 &nbsp; todo
 - 📝 &nbsp; Fast Learner
 - 📚 &nbsp; Trying to apply for a bootcamp
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escarcan&show_icons=true&theme=gruvbox)
