@@ -28,5 +28,6 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escarcan&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escarcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## :open_file_folder: My Github Stats
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=escarcan&show_icons=true&theme=gruvbox">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escarcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
