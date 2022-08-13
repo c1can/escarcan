@@ -6,7 +6,7 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47huzyz9re6c2j7148wofy96u164gk7zqq49tgbjyr&rid=giphy.gif&ct=g" width="360px"/>
   
-### 🧐 About Me:
+## 🧐 About Me
 
 - 🤝 &nbsp; to do
 - 🌱 &nbsp; todo
@@ -19,4 +19,14 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 <br/>
 <br/>
 
+## :computer: Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind,vite" />
+  </a>
+</p>
+<br/>
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escarcan&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escarcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
