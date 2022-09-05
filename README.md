@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a self taught student :man_student:, currently learning the MERN stack :t-rex:. I consider myself fast learner and I'm always learning new technologies to improve my productivity and build cool stuff, my dream is to be a FullStack Developer:man_technologist:
+I am a self taught student :man_student:, currently learning the MERN stack :t-rex:. I consider myself fast learner and I'm always learning new technologies to improve my productivity and build cool stuff, my goal is to be a FullStack Developer:man_technologist:
 <br/>
 <br/>
 
