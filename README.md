@@ -11,7 +11,7 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 - 👨🏻‍💻 &nbsp; Currently learning Typescript
 - 🎨 &nbsp; You can visit all my practice projects on 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
 - 📝 &nbsp; Fast Learner
-- 📚 &nbsp; Trying to apply for a bootcamp
+- 📚 &nbsp; Trying to apply for a job
 <br/>
 <br/>
 
