@@ -4,7 +4,7 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif?cid=ecf05e47q0zny6vqxjit9daut33v2bat54mlqkg6vihf4bhn&rid=giphy.gif&ct=g" width="360px"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif?cid=ecf05e47q0zny6vqxjit9daut33v2bat54mlqkg6vihf4bhn&rid=giphy.gif&ct=g" width="300px"/>
 <br/>
 <br/>
 <br/>
