@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hello 👋
 
 I am a self taught student :man_student:, currently learning the MERN stack :t-rex:. I consider myself fast learner and I'm always learning new technologies to improve my productivity and build cool stuff, my goal is to be a FullStack Developer:man_technologist:
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47huzyz9re6c2j7148wofy96u164gk7zqq49tgbjyr&rid=giphy.gif&ct=g" width="360px"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47hwl0fsobkwri922lrol4paud70mno731umw2gy0s&rid=giphy.gif&ct=g" width="360px"/>
   
 ## 🧐 About Me
 
