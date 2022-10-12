@@ -17,6 +17,10 @@ I am a self taught student :man_student:, currently learning the MERN stack :t-r
 - 📚 &nbsp; Trying to apply for a job
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 ## :computer: Technologies
 <p align="center">
