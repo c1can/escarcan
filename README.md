@@ -26,6 +26,3 @@
 <br/>
 <br/>
 
-## :open_file_folder: My Github Stats
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=escarcan&show_icons=true&theme=gruvbox">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escarcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
