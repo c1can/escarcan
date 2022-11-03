@@ -3,9 +3,9 @@
 
 ## About Me
 
-- Currently learning Typescript
-- You can visit all my practice projects on 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
-- Fast Learner
+- self-taught student
+- you can visit all my practice projects on 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
+- fast Learner
 <br/>
 <br/>
 
