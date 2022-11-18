@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-## Technologies
+## Favorite Technologies
 
 <p>
   <a href="https://skillicons.dev">
