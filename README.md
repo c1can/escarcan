@@ -4,7 +4,7 @@
 ## About Me
 
 - self-taught student
-- you can visit all my practice projects on 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
+- you can visit some of my projects at 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
 - fast Learner
 <br/>
 <br/>
@@ -13,7 +13,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind,vite,express,mongodb,nodejs" />
   </a>
 </p>
 <br/>
