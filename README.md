@@ -5,7 +5,7 @@
 
 - self-taught student
 - you can visit some of my projects at 👉 [FrontendMentor](https://www.frontendmentor.io/profile/escarcan)
-- fast Learner
+- fast learner
 <br/>
 <br/>
 
